@@ -1,0 +1,361 @@
+name,house,faction,inter_faction_weight,betweenness,bridge_score
+DAENERYS,Casa Targaryen,Other,1810,0.0739,1846.94
+SANSA,Casa Stark,North,1475,0.0343,1492.13
+VARYS,Sem casa,Other,1217,0.025,1229.5
+BRIENNE,Casa Tarth,Other,1069,0.0105,1074.27
+TYRION,Casa Lannister,KingsLanding,976,0.0847,1018.33
+ARYA,Casa Stark,North,862,0.0755,899.73
+BRONN,Sem casa nobre,Other,866,0.0539,892.96
+THEON,Casa Greyjoy,Other,836,0.0619,866.94
+SAM,Casa Tarly (origem),Other,832,0.0473,855.67
+JON,Casa Stark (Snow) / Targaryen (sangue),North,815,0.0545,842.26
+LITTLEFINGER,Casa Baelish,KingsLanding,794,0.0296,808.81
+NED,Casa Stark,North,752,0.045,774.5
+TORMUND,Povo Livre,Other,690,0.0259,702.94
+MELISANDRE,Seguidores de R'hllor,Other,658,0.0221,669.05
+SHAE,Sem casa nobre,Other,547,0.0078,550.91
+HOUND,Casa Clegane,KingsLanding,487,0.0528,513.42
+DAVOS,Casa Baratheon (aliado),KingsLanding,449,0.0522,475.12
+JAIME,Casa Lannister,KingsLanding,400,0.0236,411.78
+QYBURN,Ex‑maester,Other,397,0.0263,410.17
+HIGH_SPARROW,Desconhecida,Other,405,0.0001,405.05
+PODRICK,Sem casa nobre,Other,391,0.0137,397.86
+GREY_WORM,Desconhecida,Other,379,0.0205,389.27
+CERSEI,Casa Lannister,KingsLanding,365,0.0484,389.2
+CATELYN,Casa Tully / Stark,North,371,0.0303,386.17
+JAQEN,Faceless Men,Other,360,0.0051,362.55
+JOFFREY,Casa Baratheon / Lannister,KingsLanding,341,0.0412,361.6
+BERIC,Sem casa fixa,Other,351,0.0134,357.72
+ROOSE_BOLTON,Desconhecida,Other,351,0.0108,356.41
+MISSANDEI,Meereen / Naath,Other,333,0.0213,343.66
+ROBERT,Casa Baratheon,KingsLanding,304,0.041,324.49
+YGRITTE,Povo Livre,Other,305,0.0195,314.76
+JORAH,Casa Mormont (origem),North,263,0.0929,309.43
+GENDRY,Bastardo Baratheon (origem),KingsLanding,291,0.0138,297.88
+ELLARIA,Dorne / Sand,Other,274,0.017,282.49
+TALISA,Sem casa nobre,Other,270,0.0047,272.36
+EDDISON_TOLLETT,Desconhecida,Other,239,0.0364,257.22
+ROBB,Casa Stark,North,241,0.0162,249.12
+THOROS,Red Priest / Brotherhood,Other,234,0.0026,235.32
+YOHN_ROYCE,Desconhecida,Other,216,0.0048,218.42
+ALLISER_THORNE,Desconhecida,Other,200,0.0036,201.8
+TYWIN,Casa Lannister,KingsLanding,176,0.0373,194.66
+STANNIS,Casa Baratheon,KingsLanding,178,0.0251,190.55
+BARRISTAN,Casa Selmy / serviço real,Other,183,0.0069,186.43
+MAESTER_LUWIN,Desconhecida,Other,182,0.004,184.01
+MERYN_TRANT,Desconhecida,Other,175,0.0147,182.34
+BRAN,Casa Stark,North,155,0.0423,176.16
+HOT_PIE,Desconhecida,Other,170,0.0107,175.35
+MANCE,Povo Livre,Other,160,0.0065,163.24
+EURON,Casa Greyjoy,Other,162,0.0021,163.06
+JANOS,Janos Slynt,Other,152,0.0088,156.42
+LYSA,Casa Arryn / Tully,North,152,0.0076,155.82
+THREE_EYED_RAVEN,Desconhecida,Other,146,0.0006,146.31
+WALDER,Casa Frey,KingsLanding,139,0.0093,143.63
+GRENN,Night's Watch,Other,134,0.0153,141.67
+BRYNDEN,Targaryen bastardo / Three‑Eyed Raven,Other,136,0.0032,137.61
+DAARIO,Sem casa nobre,Other,131,0.0011,131.55
+ROBIN,Casa Arryn,KingsLanding,121,0.0167,129.36
+MYRANDA,Servo de Ramsay,Other,121,0.0005,121.27
+YOREN,Night's Watch,Other,115,0.0115,120.75
+MAESTER_WOLKAN,Desconhecida,Other,112,0.0073,115.65
+GILLY,Povo Livre / aliada,Other,106,0.0152,113.58
+RICKARD_KARSTARK,Desconhecida,Other,105,0.0087,109.36
+NIGHT_KING,Desconhecida,Other,99,0.0093,103.63
+RODRIK,Casa Cassel,Other,100,0.0064,103.18
+TYCHO,Banco de Ferro,Other,101,0.0017,101.86
+LADY_CRANE,Desconhecida,Other,98,0.0053,100.63
+AERYS,Casa Targaryen (histórico),Other,83,0.0295,97.76
+WAIF,Faceless Men,Other,96,0.0003,96.13
+PYCELLE,Porto Real / maester,KingsLanding,94,0.002,94.99
+SEPTA_MORDANE,Desconhecida,Other,93,0.0,93.01
+MATTHOS,Personagem menor,Other,89,0.0063,92.13
+EDMURE,Casa Tully,North,75,0.0325,91.25
+HIGH_SEPTON,Desconhecida,Other,81,0.0196,90.79
+JORY_CASSEL,Desconhecida,Other,89,0.0007,89.37
+ROS,Sem casa nobre,Other,85,0.0059,87.95
+MAESTER_AEMON,Desconhecida,Other,81,0.0108,86.41
+QHORIN,Ranger / wildling ally,Other,86,0.0,86.0
+MARGAERY,Casa Tyrell,KingsLanding,78,0.0108,83.41
+RENLY,Casa Baratheon,KingsLanding,78,0.0093,82.63
+PYP,Night's Watch,Other,76,0.0098,80.89
+KARL_TANNER,Desconhecida,Other,77,0.0013,77.67
+POLLIVER,Capanga,Other,76,0.0029,77.45
+BLACK_WALDER,Desconhecida,Other,74,0.0003,74.13
+SALLADHOR,Desconhecida,Other,73,0.0004,73.22
+DONTOS,Corte / servo,Other,73,0.0,73.0
+LOCKE,Vassalo Bolton,North,63,0.0148,70.42
+YARA,Casa Greyjoy,Other,54,0.0294,68.7
+TYENE,Dorne / Sand,Other,61,0.0008,61.39
+LORAS,Casa Tyrell,KingsLanding,52,0.0182,61.08
+GREATJON_UMBER,Desconhecida,Other,56,0.0099,60.97
+OBARA,Dorne / Sand,Other,58,0.0027,59.36
+LEAF,Personagem mística,Other,58,0.0,58.0
+RAST,Night's Watch,Other,55,0.0059,57.95
+ANGUY,Brotherhood Without Banners,Other,57,0.0004,57.18
+SYRIO_FOREL,Desconhecida,Other,57,0.0,57.0
+ORELL,Povo Livre,Other,56,0.0,56.0
+SEPTA_UNELLA,Desconhecida,Other,56,0.0,56.0
+LYANNA_MORMONT,Casa Stark (histórico),North,49,0.0087,53.36
+RANDYLL,Casa Tarly,Other,52,0.0007,52.34
+OLENNA,Casa Tyrell,KingsLanding,37,0.0292,51.61
+VISERYS,Casa Targaryen,Other,50,0.0007,50.36
+QHONO,Dothraki,Other,44,0.0061,47.03
+MORD,Personagem menor,Other,44,0.0004,44.18
+ILYN_PAYNE,Desconhecida,Other,43,0.0002,43.1
+RAY,Desconhecida,Other,41,0.0,41.0
+WUN_WUN,Desconhecida,Other,39,0.0014,39.7
+MOUNTAIN,Casa Clegane,KingsLanding,29,0.0206,39.31
+DROGO,Dothraki,Other,26,0.0226,37.3
+RAMSAY,Casa Bolton (ilegítimo depois legitimado),North,33,0.0086,37.3
+ANYA_WAYNWOOD,Desconhecida,Other,37,0.0002,37.09
+RHAEGAR,Casa Targaryen (histórico),Other,31,0.0096,35.8
+JON_ARRYN,Casa Stark (Snow) / Targaryen (sangue),North,33,0.0045,35.27
+BAELOR,Targaryen histórico,Other,30,0.0065,33.26
+DICKON,Casa Tarly,Other,30,0.0065,33.25
+FARMER_HAMLET,Camponês,Other,33,0.0,33.0
+MORGAN,Personagem menor,Other,28,0.0087,32.34
+VARDIS_EGEN,Desconhecida,Other,32,0.0,32.0
+RAKHARO,Dothraki,Other,30,0.0007,30.33
+BOBONO,Personagem menor,Other,30,0.0,30.01
+SHAGGA,Povo Livre,Other,30,0.0,30.0
+JEOR,Casa Mormont,North,26,0.0062,29.08
+BIANCA,Personagem menor,Other,29,0.0,29.02
+CLARENZO,Personagem menor,Other,29,0.0,29.0
+RORGE,Bandido,Other,29,0.0,29.0
+MALKO,Personagem menor,Other,29,0.0,29.0
+LITTLE_SAM,Desconhecida,Other,19,0.0197,28.83
+OTHELL_YARWYCK,Desconhecida,Other,24,0.0092,28.6
+IZEMBARO,Actor / Meereen,Other,27,0.0025,28.25
+KARSI,Desconhecida,Other,28,0.0,28.0
+NORA,Personagem menor,Other,26,0.0,26.0
+MAGGY,Maggy the Frog,Other,22,0.0056,24.79
+BENJEN,Casa Stark,North,21,0.0072,24.6
+OLD_NAN,Desconhecida,Other,22,0.0044,24.21
+BALON,Casa Greyjoy,Other,23,0.0023,24.13
+OLLY,Norte / Night's Watch,North,24,0.0001,24.05
+ELIA,Desconhecida,Other,24,0.0,24.0
+MYCAH,Winterfell / camponês,Other,24,0.0,24.0
+MARILLION,Bardo,Other,23,0.0008,23.39
+RIVERLANDS_LORD,Desconhecida,Other,17,0.0127,23.36
+HAYLENE,Personagem menor,Other,23,0.0005,23.24
+DORNISH_PRINCE,Desconhecida,Other,17,0.0122,23.09
+VALE_LORD,Desconhecida,Other,17,0.012,23.02
+ALTON,Casa Lannister,KingsLanding,22,0.0008,22.4
+IRONBORN_LORD,Desconhecida,Other,16,0.0127,22.37
+DYING_MAN,Desconhecida,Other,22,0.0,22.0
+JOYEUSE,Personagem menor,Other,20,0.0034,21.7
+FARMER,Camponês,Other,21,0.0013,21.63
+LOTHAR,Casa Frey,KingsLanding,20,0.0023,21.13
+SON_OFWALDA,Desconhecida,Other,21,0.0,21.0
+BALON_DWARF,Casa Greyjoy,Other,21,0.0,21.0
+CRESSEN,Desconhecida,Other,21,0.0,21.0
+MAESTER_MORMONT,Desconhecida,Other,21,0.0,21.0
+MAREI,Personagem menor,Other,19,0.0036,20.81
+ALYS,Casa Karstark (provável),North,20,0.0014,20.72
+MARWYN,Maester / Meereen,Other,20,0.0009,20.45
+LORD_OF_BONES,Desconhecida,Other,20,0.0,20.0
+HIZDAHR,Meereen,Other,19,0.0018,19.91
+ARTHUR,Personagem menor,Other,19,0.0,19.0
+TOMMEN,Casa Baratheon / Lannister,KingsLanding,13,0.0114,18.7
+ROBB_DWARF,Casa Stark,North,17,0.0029,18.45
+HARALD,Personagem menor,Other,18,0.0007,18.35
+STEELSHANKS_WALTON,Desconhecida,Other,18,0.0006,18.3
+QUAITHE,Qarth,Other,18,0.0005,18.24
+NYMERIA,Direwolf (Stark),North,17,0.0019,17.93
+VICKY,Personagem menor,Other,17,0.0,17.0
+BRANDON_STARK,Desconhecida,Other,15,0.0032,16.6
+HUGH_OF_THE_VALE,Desconhecida,Other,16,0.0003,16.16
+STYR,Thenn / wildling,Other,16,0.0001,16.07
+AMORY,Vassalo Lannister,KingsLanding,16,0.0,16.0
+LOBODA,Personagem menor,Other,16,0.0,16.0
+YEZZAN,Mercador Meereen,Other,16,0.0,16.0
+THIN_MAN,Desconhecida,Other,15,0.0017,15.83
+DAGMER,Ironborn,Other,15,0.0015,15.76
+HARRY,Personagem menor,Other,15,0.0014,15.71
+KOVARRO,Personagem menor,Other,15,0.0005,15.27
+TANSY,Personagem menor,Other,15,0.0,15.0
+KINVARA,Seguidores de R'hllor,Other,15,0.0,15.0
+MANDON,Desconhecida,Other,15,0.0,15.0
+TOBHO_MOTT,Desconhecida,Other,15,0.0,15.0
+WHITE_WALKER,Desconhecida,Other,6,0.0168,14.4
+WILL,Ranger,Other,11,0.0067,14.34
+ROYCE,Casa Royce,Other,14,0.0007,14.34
+LYANNA,Casa Stark (histórico),North,10,0.0086,14.29
+BOWEN_MARSH,Desconhecida,Other,14,0.0,14.02
+MORAG,Personagem menor,Other,14,0.0,14.0
+LANCEL,Casa Lannister,KingsLanding,8,0.0113,13.66
+JOANNA,Desconhecida,Other,13,0.0007,13.35
+IRRI,Serva de Daenerys,Other,11,0.0046,13.3
+CRASTERS_BABY,Desconhecida,Other,12,0.0025,13.27
+SISSY,Personagem menor,Other,13,0.0,13.0
+MANDERLY,Desconhecida,Other,13,0.0,13.0
+XARO,Qarth merchant,Other,12,0.0007,12.33
+SALLY,Personagem menor,Other,12,0.0,12.01
+MELARA,Personagem menor,Other,12,0.0,12.0
+ENDREW,Personagem menor,Other,12,0.0,12.0
+ROBETT,Casa Glover,North,10,0.0039,11.95
+DOREAH,Serva / concubina,Other,9,0.0055,11.76
+MHAEGEN,Personagem menor,Other,11,0.0014,11.71
+CAMELLO,Personagem menor,Other,11,0.0012,11.6
+OTHOR,Desconhecida,Other,11,0.0007,11.33
+RICKARD_STARK,Desconhecida,Other,11,0.0006,11.29
+MACE,Casa Tyrell,KingsLanding,9,0.0046,11.29
+OWNER,Desconhecida,Other,11,0.0001,11.04
+ROSLIN,Casa Tully,North,10,0.0012,10.58
+MORGANS_FRIEND,Desconhecida,Other,10,0.0011,10.54
+COLEN,Personagem menor,Other,10,0.0006,10.28
+JOFFREY_DWARF,Casa Baratheon / Lannister,KingsLanding,9,0.0021,10.07
+WINE_MERCHANT,Desconhecida,Other,10,0.0001,10.04
+TOMARD,Cavaleiro menor,Other,10,0.0001,10.04
+BITER,Personagem menor,Other,10,0.0,10.0
+RAZDAL,Dothraki / mercador,Other,10,0.0,10.0
+REGINALD,Personagem menor,Other,10,0.0,10.0
+JACKS,Personagem menor,Other,10,0.0,10.0
+HODOR,Casa Stark (servo),North,3,0.0134,9.69
+HOSTER,Casa Tully (histórico),North,8,0.003,9.52
+DAREON,Night's Watch,Other,6,0.007,9.48
+MAESTER_DORNE,Desconhecida,Other,7,0.0048,9.39
+DIM_DALBA,Desconhecida,Other,9,0.0003,9.16
+DORNISH_LORD,Desconhecida,Other,9,0.0,9.0
+TORRHEN,Personagem menor,Other,8,0.002,9.0
+SMALLJON,Casa Umber,North,8,0.0019,8.97
+TEELA,Personagem menor,Other,6,0.0056,8.82
+MOSSADOR,Meereen,Other,4,0.0085,8.26
+FARLEN,Personagem menor,Other,8,0.0003,8.16
+LEM,Personagem menor,Other,6,0.0043,8.16
+FREY_SEPTON,Desconhecida,Other,8,0.0002,8.1
+AXELL_FLORENT,Desconhecida,Other,8,0.0002,8.08
+SON_OF_EDMURE,Desconhecida,Other,8,0.0002,8.08
+SELYSE,Casa Baratheon,KingsLanding,8,0.0001,8.07
+MIRRI_MAZ_DUUR,Desconhecida,Other,8,0.0,8.0
+TIMETT,Nobre menor,Other,8,0.0,8.0
+TARYN_MANT,Desconhecida,Other,8,0.0,8.0
+MASHA_HEDDLE,Desconhecida,Other,8,0.0,8.0
+KEVAN,Casa Lannister,KingsLanding,2,0.012,7.98
+ASSASSIN,Papel genérico,Other,7,0.0011,7.57
+MEERA,Casa Reed,North,3,0.0091,7.54
+RICKON,Casa Stark,North,2,0.011,7.52
+BELICHO,Capitão,Other,7,0.0008,7.38
+CERSEIS_BABY,Desconhecida,Other,6,0.0027,7.33
+GUYMON,Desconhecida,Other,7,0.0004,7.2
+GUARD_CAPTAIN,Desconhecida,Other,7,0.0,7.0
+DAISY,Personagem menor,Other,7,0.0,7.0
+TRYSTANE,Casa Martell,KingsLanding,7,0.0,7.0
+AEGON,Targaryen (vários),Other,6,0.0018,6.92
+MYRCELLA,Casa Baratheon / Lannister,KingsLanding,5,0.0037,6.87
+MAG_THE_MIGHTY,Desconhecida,Other,4,0.0056,6.78
+OBERYN,Casa Martell,KingsLanding,4,0.005,6.5
+FOOL,Bobo da corte,Other,6,0.001,6.49
+ILLYRIO,Pentos / mercador,Other,4,0.0046,6.28
+LOMMY,Origem Norte,North,6,0.0,6.0
+STEVRON_FREY,Desconhecida,Other,6,0.0,6.0
+MERO,Personagem menor,Other,6,0.0,6.0
+SARRA,Desconhecida,Other,5,0.0016,5.82
+STRONG,Personagem menor,Other,2,0.0073,5.65
+QUICK,Personagem menor,Other,2,0.0073,5.65
+MALAKKO,Desconhecida,Other,2,0.0072,5.61
+QOTHO,Dothraki,Other,5,0.0004,5.22
+ADDAM_MARBRAND,Desconhecida,Other,5,0.0003,5.13
+RHAEGO,Desconhecida,Other,3,0.0041,5.06
+KRAZNYS_MO_NAKLOZ,Desconhecida,Other,5,0.0001,5.04
+OLLYS_MOTHER,Desconhecida,Other,4,0.002,5.0
+JONOS_BRACKEN,Desconhecida,Other,5,0.0,5.0
+LOLLYS,Nobre menor,Other,5,0.0,5.0
+DONNEL_WAYNWOOD,Desconhecida,Other,5,0.0,5.0
+INNKEEPER,Personagem menor,Other,5,0.0,5.0
+LUTHOR,Personagem menor,Other,5,0.0,5.0
+PYATT_PREE,Desconhecida,Other,5,0.0,5.0
+TICKLER,Casa Frey,KingsLanding,5,0.0,5.0
+SPICE_KING,Desconhecida,Other,3,0.0039,4.93
+GALBART_GLOVER,Desconhecida,Other,2,0.0059,4.93
+TOMMY,Personagem menor,Other,4,0.0018,4.92
+VANCE_CORBRAY,Desconhecida,Other,4,0.0018,4.89
+SHIREEN,Casa Baratheon (Dragonstone),KingsLanding,4,0.0016,4.8
+VIOLA,Personagem menor,Other,2,0.0056,4.79
+BOROS,Personagem menor,Other,4,0.0015,4.74
+LEO_LEFFORD,Desconhecida,Other,4,0.0012,4.58
+JOJEN,Casa Reed,North,0,0.0089,4.45
+TYSHA,Personagem ligada a Tyrion,Other,4,0.0007,4.35
+WILLA,Desconhecida,Other,4,0.0005,4.25
+BALERION,Dragão histórico,Other,4,0.0005,4.24
+DESMOND,Personagem menor,Other,4,0.0003,4.15
+INNKEEPERS_DAUGHTER,Desconhecida,Other,4,0.0003,4.13
+RYLENE,Personagem menor,Other,4,0.0002,4.08
+AREO,Casa Martell,KingsLanding,4,0.0,4.01
+OWEN,Personagem menor,Other,4,0.0,4.0
+DORNISH_RIDER,Desconhecida,Other,4,0.0,4.0
+RED_PRIEST,Desconhecida,Other,4,0.0,4.0
+GREIZHEN,Desconhecida,Other,2,0.0038,3.89
+WALDA,Casa Frey / Walda Bolton (variações),North,2,0.0027,3.36
+GLOVER,Casa Glover,North,3,0.0005,3.25
+GOATHERD,Personagem menor,Other,2,0.0025,3.24
+SELWYN,Nobre do Vale,Other,3,0.0003,3.14
+SEPTON,Faith of the Seven,Other,3,0.0001,3.06
+WINTERFELL_SHEPHERD,Desconhecida,Other,3,0.0,3.01
+VISENYA,Targaryen histórico,Other,3,0.0,3.0
+LHAZAREEN_WOMAN,Desconhecida,Other,3,0.0,3.0
+SORCERER,Papel genérico,Other,3,0.0,3.0
+JHIQUI,Meereen,Other,0,0.0059,2.93
+KHAL_MORO,Desconhecida,Other,2,0.0009,2.47
+DOSH_KHALEEN_LEADER,Desconhecida,Other,2,0.0009,2.46
+RENLY_DWARF,Casa Baratheon,KingsLanding,2,0.0007,2.36
+PRENDAHL,Personagem menor,Other,2,0.0006,2.28
+BLACK_LORREN,Desconhecida,Other,2,0.0004,2.2
+JAREMY_RYKKER,Desconhecida,Other,2,0.0003,2.17
+QHORIN_HALFHAND,Ranger / wildling ally,Other,2,0.0003,2.16
+STEFFON,Casa Baratheon (histórico),KingsLanding,2,0.0003,2.14
+MARTYN,Nobre menor,Other,2,0.0001,2.04
+WAYMAR_ROYCE,Desconhecida,Other,2,0.0,2.02
+UNSULLIED_CAPTAIN,Desconhecida,Other,2,0.0,2.0
+RHAENYS,Targaryen histórico,Other,2,0.0,2.0
+MEEREEN_CHAMPION,Desconhecida,Other,2,0.0,2.0
+LORD_WEEBLY,Desconhecida,Other,2,0.0,2.0
+VIOLET,Personagem menor,Other,2,0.0,2.0
+DONGO_THE_GIANT,Desconhecida,Other,2,0.0,2.0
+MADAME,Bordel/teatro,Other,2,0.0,2.0
+NED_UMBER,Casa Stark,North,0,0.0038,1.89
+OSHA,Povo Livre / serva Stark,North,0,0.0032,1.59
+VALA,Personagem menor,Other,0,0.0028,1.38
+CRASTER,Além da Muralha,North,0,0.0021,1.03
+RALF,Personagem menor,Other,0,0.0018,0.88
+FIRST_MATE,Desconhecida,Other,0,0.0012,0.59
+HOWLAND,Howland Reed,North,0,0.0006,0.28
+OLYVAR,Porto Real / serviço,KingsLanding,0,0.0005,0.25
+DORAN,Casa Martell,KingsLanding,0,0.0004,0.21
+SILK_KING,Desconhecida,Other,0,0.0004,0.2
+FLYNN,Personagem menor,Other,0,0.0004,0.18
+RADZAI_MO_ERAZ,Desconhecida,Other,0,0.0003,0.13
+TALLA,Personagem menor,Other,0,0.0002,0.12
+DONNEL_HILL,Desconhecida,Other,0,0.0002,0.12
+COOPER,Personagem menor,Other,0,0.0002,0.12
+ADRACK_HUMBLE,Desconhecida,Other,0,0.0002,0.11
+MOLES_TOWN_WHORE,Desconhecida,Other,0,0.0002,0.08
+STANNIS_DWARF,Casa Baratheon,KingsLanding,0,0.0001,0.07
+CRAYAH,Personagem menor,Other,0,0.0001,0.06
+MASTER_MIGHDAL,Desconhecida,Other,0,0.0001,0.06
+MOLES_TOWN_MADAM,Desconhecida,Other,0,0.0001,0.04
+LUKE,Personagem menor,Other,0,0.0,0.02
+ELDER_MEEREEN_SLAVE,Desconhecida,Other,0,0.0,0.02
+BORCAS,Personagem menor,Other,0,0.0,0.02
+DERRYK,Personagem menor,Other,0,0.0,0.0
+WILLEM_LANNISTER,Desconhecida,Other,0,0.0,0.0
+AERON,Casa Greyjoy,Other,0,0.0,0.0
+BOLTON_GUARD,Desconhecida,Other,0,0.0,0.0
+BRAND,Personagem menor,Other,0,0.0,0.0
+DIRAH,Personagem menor,Other,0,0.0,0.0
+BARRA,Personagem menor,Other,0,0.0,0.0
+MANSERVANT,Papel genérico,Other,0,0.0,0.0
+HIZDAHRS_FATHER,Desconhecida,Other,0,0.0,0.0
+LOMMY_GREENHANDS,Origem Norte,North,0,0.0,0.0
+MAGO,Papel genérico,Other,0,0.0,0.0
+FENNESZ,Personagem menor,Other,0,0.0,0.0
+MELESSA,Personagem menor,Other,0,0.0,0.0
+DOM,Personagem menor,Other,0,0.0,0.0
+MAESTER_CITADEL,Desconhecida,Other,0,0.0,0.0
+MEEREEN_SLAVE,Desconhecida,Other,0,0.0,0.0
+GARED,Night's Watch,Other,0,0.0,0.0
+HARRAG,Meereen,Other,0,0.0,0.0
+ORYS,Baratheon histórico,KingsLanding,0,0.0,0.0
+ORYS_BROTHER,Baratheon histórico,KingsLanding,0,0.0,0.0
+THENN_WARG,Desconhecida,Other,0,0.0,0.0

@@ -1,0 +1,968 @@
+Id,Label,Season
+ADDAM_MARBRAND,Addam,1
+AEGON,Aegon,1
+AERYS,Aerys,1
+ALLISER_THORNE,Allister,1
+ARYA,Arya,1
+ASSASSIN,Assassin,1
+BAELOR,Baelor,1
+BALON,Balon,1
+BARRISTAN,Barristan,1
+BENJEN,Benjen,1
+BERIC,Beric,1
+BORCAS,Borcas,1
+BOWEN_MARSH,Bowen,1
+BRAN,Bran,1
+BRANDON_STARK,Brandon,1
+BRONN,Bronn,1
+CATELYN,Catelyn,1
+CERSEI,Cersei,1
+COHOLLO,Cohollo,1
+DAENERYS,Daenerys,1
+DAREON,Dareon,1
+DOREAH,Doreah,1
+DROGO,Drogo,1
+GALBART_GLOVER,Galbart,1
+GARED,Gared,1
+GENDRY,Gendry,1
+GREATJON_UMBER,Greatjon,1
+GRENN,Grenn,1
+HIGH_SEPTON,High Septon,1
+HODOR,Hodor,1
+HOSTER,Hoster,1
+HOT_PIE,Hot Pie,1
+HOUND,Sandor,1
+HUGH_OF_THE_VALE,Hugh of the Vale,1
+ILLYRIO,Illyrio,1
+ILYN_PAYNE,Ilyn,1
+IROGENIA,Irogenia,1
+IRRI,Irri,1
+JAIME,Jaime,1
+JANOS,Janos,1
+JAREMY_RYKKER,Jaremy,1
+JEOR,Jeor,1
+JHIQUI,Jhiqui,1
+JOANNA,Joanna,1
+JOFFREY,Joffrey,1
+JON,Jon,1
+JON_ARRYN,Jon Arryn,1
+JONOS_BRACKEN,Jonos,1
+JORAH,Jorah,1
+JORY_CASSEL,Jory,1
+JOYEUSE,Joyeuse,1
+KEVAN,Kevan,1
+LANCEL,Lancel,1
+LEO_LEFFORD,Leo,1
+LITTLE_BIRD,Little Bird,1
+LITTLEFINGER,Petyr,1
+LOMMY_GREENHANDS,Lommy,1
+LORAS,Loras,1
+LUKE,Luke,1
+LYANNA,Lyanna,1
+LYSA,Lysa,1
+MACE,Mac,1
+MAESTER_AEMON,Aemon,1
+MAESTER_LUWIN,Luwin,1
+MAGO,Mago,1
+MARILLION,Marillion,1
+MASHA_HEDDLE,Masha,1
+MELESSA,Melessa,1
+MERYN_TRANT,Meryn,1
+MHAEGEN,Mhaegen,1
+MIRRI_MAZ_DUUR,Mirri Maz Dur,1
+MORD,Mord,1
+MOUNTAIN,Gregor,1
+MYCAH,Mycah,1
+MYRCELLA,Myrcella,1
+NED,Ned,1
+OLD_NAN,Old Nan,1
+OSHA,Osha,1
+OTHELL_YARWYCK,Othell,1
+OTHOR,Othor,1
+PYCELLE,Pycelle,1
+PYP,Pyp,1
+QOTHO,Qotho,1
+RAKHARO,Rakharo,1
+RANDYLL,Randyll,1
+RAST,Rast,1
+RENLY,Renly,1
+RHAEGAR,Rhaegar,1
+RHAEGO,Rhaego,1
+RICKARD_KARSTARK,Rickard Karstark,1
+RICKARD_STARK,Rickard Stark,1
+RICKON,Rickon,1
+ROBB,Robb,1
+ROBERT,Robert,1
+ROBIN,Robin,1
+RODRIK,Rodrik,1
+ROOSE_BOLTON,Roose,1
+ROS,Ros,1
+ROYCE,Royce,1
+RYGER_RIVERS,Ryger,1
+SAM,Sam,1
+SANSA,Sansa,1
+SEPTA_MORDANE,Septa Mordane,1
+SHAE,Shae,1
+SHAGGA,Shagga,1
+STABLE_BOY,Stable Boy,1
+STANNIS,Stannis,1
+STEFFON,Steffon,1
+STEVRON_FREY,Stevron,1
+SYRIO_FOREL,Syrio,1
+THEON,Theon,1
+TOBHO_MOTT,Tobho Mott,1
+TOMARD,Tomard,1
+TOMMEN,Tommen,1
+TYRION,Tyrion,1
+TYSHA,Tysha,1
+TYWIN,Tywin,1
+VARDIS_EGEN,Vardis,1
+VARLY,Varly,1
+VARYS,Varys,1
+VISERYS,Viserys,1
+WALDER,Walder,1
+WAYMAR_ROYCE,Waymar,1
+WILL,Will,1
+WINE_MERCHANT,Wine Merchant,1
+YOREN,Yoren,1
+AEGON,Aegon,2
+AERYS,Aerys,2
+ALTON,Alton,2
+AMORY,Amory,2
+ARYA,Arya,2
+BALON,Balon,2
+BARRA,Barra,2
+BENJEN,Benjen,2
+BILLY,Billy,2
+BITER,Biter,2
+BLACK_LORREN,Black Lorren,2
+BOROS,Boros,2
+BRAN,Bran,2
+BRIENNE,Brienne,2
+BRONN,Bronn,2
+CAPTAINS_DAUGHTER,Captain's Daughter,2
+CATELYN,Catelyn,2
+CERSEI,Cersei,2
+COLEN,Colen,2
+CRASTER,Craster,2
+CRESSEN,Cressen,2
+DAENERYS,Daenerys,2
+DAGMER,Dagmer,2
+DAISY,Daisy,2
+DAVOS,Davos,2
+DONTOS,Dontos,2
+DOREAH,Doreah,2
+DROGO,Drogo,2
+DROWNED_PRIEST,Drowned Priest,2
+EDDISON_TOLLETT,Eddison,2
+FARLEN,Farlen,2
+FATHER_SEAWORTH,Father Seaworth,2
+FREY_DAUGHTER,Frey Daughter,2
+GENDRY,Gendry,2
+GERARD,Gerard,2
+GILLY,Gilly,2
+GRENN,Grenn,2
+HARREN,Harren,2
+HAYLENE,Haylene,2
+HIGH_SEPTON,High Septon,2
+HODOR,Hodor,2
+HOT_PIE,Hot Pie,2
+HOUND,Sandor,2
+ILYN_PAYNE,Ilyn,2
+IRRI,Irri,2
+JACKS,Jacks,2
+JAIME,Jaime,2
+JANOS,Janos,2
+JAQEN,Jaqen,2
+JEOR,Jeor,2
+JOANNA,Joanna,2
+JOFFREY,Joffrey,2
+JON,Jon,2
+JON_ARRYN,Jon Arryn,2
+JORAH,Jorah,2
+KEVAN,Kevan,2
+KOVARRO,Kovarro,2
+LANCEL,Lancel,2
+LITTLEFINGER,Petyr,2
+LOMMY,Lommy,2
+LORAS,Loras,2
+LYSA,Lysa,2
+MAESTER_LUWIN,Luwin,2
+MALAKKO,Malakko,2
+MANCE,Mance,2
+MANDON,Mandon,2
+MARGAERY,Margaery,2
+MARYA,Marya,2
+MATTHOS,Matthos,2
+MELESSA,Melessa,2
+MELISANDRE,Melisandre,2
+MERYN_TRANT,Meryn,2
+MHAEGEN,Mhaegen,2
+MOUNTAIN,Gregor,2
+MYRCELLA,Myrcella,2
+NED,Ned,2
+OSHA,Osha,2
+PODRICK,Podrick,2
+POLLIVER,Polliver,2
+PORTAN,Portan,2
+PROTESTER,Protester,2
+PYATT_PREE,Pyatt Pree,2
+PYCELLE,Pycelle,2
+QHORIN,Quorin,2
+QUAITHE,Quaithe,2
+QUENT,Quent,2
+RAKHARO,Rakharo,2
+RAMSAY,Ramsay,2
+RANDYLL,Randyll,2
+LORD_OF_BONES,Lord of Bones,2
+REGINALD,Reginald,2
+RENLY,Renly,2
+RENNICK,Rennick,2
+RHAEGO,Rhaego,2
+RHAENYS,Rhaenys,2
+RICKARD_KARSTARK,Rickard Karstark,2
+RICKON,Rickon,2
+ROBB,Robb,2
+ROBERT,Robert,2
+ROBIN,Robin,2
+RODRIK,Rodrik,2
+ROOSE_BOLTON,Roose,2
+RORGE,Rorge,2
+ROS,Ros,2
+SALLADHOR,Salladhor,2
+SAM,Sam,2
+SANSA,Sansa,2
+SEPTON,Septon,2
+SHAE,Shae,2
+SILK_KING,Silk King,2
+SPICE_KING,Spice King,2
+STANNIS,Stannis,2
+SYRIO_FOREL,Syrio,2
+TALISA,Talisa,2
+THEON,Theon,2
+TICKLER,Tickler,2
+TIMETT,Timett,2
+TOMMEN,Tommen,2
+TORRHEN,Torrhen,2
+TRYSTANE,Trystane,2
+TYRION,Tyrion,2
+TYWIN,Tywin,2
+VARYS,Varys,2
+VISENYA,Visenya,2
+WINTERFELL_SHEPHERD,Shepherd,2
+XARO,Xaro,2
+YARA,Yara,2
+YGRITTE,Ygritte,2
+YOREN,Yoren,2
+AEGON,Aegon,3
+AERYS,Aerys,3
+ANGUY,Anguy,3
+ARYA,Arya,3
+LITTLE_SAM,Little Sam,3
+BALERION,Balerion,3
+BALON,Balon,3
+BARRISTAN,Barristan,3
+BERIC,Beric,3
+BERT,Bert,3
+BLACK_WALDER,Black Walder,3
+BOROS,Boros,3
+BRAN,Bran,3
+BRANDON_STARK,Brandon,3
+BRIENNE,Brienne,3
+BRONN,Bronn,3
+BRYNDEN,Brynden,3
+CATELYN,Catelyn,3
+CERSEI,Cersei,3
+CRASTER,Craster,3
+DAARIO,Daario,3
+DAENERYS,Daenerys,3
+DAREON,Dareon,3
+DAVOS,Davos,3
+DESMOND,Desmond,3
+DROGO,Drogo,3
+EDDISON_TOLLETT,Eddison,3
+EDMURE,Edmure,3
+ELDRICK,Eldrick,3
+FARMER,Farmer,3
+FREY_SEPTON,Frey Septon,3
+GENDRY,Gendry,3
+GILLY,Gilly,3
+GREIZHEN,Greizhen,3
+GRENN,Grenn,3
+GREY_WORM,Grey Worm,3
+HIGH_SEPTON,High Septon,3
+HOBB,Hobb,3
+HODOR,Hodor,3
+HOSTER,Hoster,3
+HOT_PIE,Hot Pie,3
+HOUND,Sandor,3
+ILYN_PAYNE,Ilyn,3
+JAIME,Jaime,3
+JEOR,Jeor,3
+JOANNA,Joanna,3
+JOFFREY,Joffrey,3
+JOJEN,Jojen,3
+JON,Jon,3
+JORAH,Jorah,3
+JOYEUSE,Joyeuse,3
+KARL_TANNER,Karl,3
+KRAZNYS_MO_NAKLOZ,Kraznys,3
+LITTLEFINGER,Petyr,3
+LOCKE,Locke,3
+LORAS,Loras,3
+LORD_OF_BONES,Lord of Bones,3
+LOTHAR,Lothar,3
+LYSA,Lysa,3
+MACE,Mace,3
+MAESTER_AEMON,Aemon,3
+MAESTER_LUWIN,Luwin,3
+MANCE,Mance,3
+MAREI,Marei,3
+MARGAERY,Margaery,3
+MARTYN,Martyn,3
+MATTHOS,Matthos,3
+MEERA,Meera,3
+MELISANDRE,Melisandre,3
+MERO,Mero,3
+MERRY,Merry,3
+MERYN_TRANT,Meryn,3
+MISSANDEI,Missandei,3
+MOUNTAIN,Gregor,3
+MYCAH,Mycah,3
+MYRANDA,Myranda,3
+NED,Ned,3
+OLENNA,Olenna,3
+OLYVAR,Olyvar,3
+ORELL,Orell,3
+OSHA,Osha,3
+PODRICK,Podrick,3
+PRENDAHL,Prendahl,3
+PYCELLE,Pycelle,3
+PYP,Pyp,3
+QHORIN_HALFHAND,Qhorin,3
+QYBURN,Qyburn,3
+RADZAI_MO_ERAZ,Radzai,3
+RAMSAY,Ramsay,3
+RANDYLL,Randyll,3
+RAST,Rast,3
+RENLY,Renly,3
+RICKARD_KARSTARK,Rickard Karstark,3
+RICKON,Rickon,3
+ROBB,Robb,3
+ROBERT,Robert,3
+ROOSE_BOLTON,Roose,3
+ROS,Ros,3
+ROSLIN,Roslin,3
+RYLENE,Rylene,3
+SALLADHOR,Salladhor,3
+SAM,Sam,3
+SANSA,Sansa,3
+SELWYN,Selwyn,3
+SELYSE,Selyse,3
+SHAE,Shae,3
+SHIREEN,Shireen,3
+SORCERER,Sorcerer,3
+STANNIS,Stannis,3
+STEELSHANKS_WALTON,Steelshanks Walton,3
+TALISA,Talisa,3
+TARYN_MANT,Taryn,3
+THEON,Theon,3
+THOROS,Thoros,3
+TORMUND,Tormund,3
+TORTURER,Torturer,3
+TYRION,Tyrion,3
+TYWIN,Tywin,3
+VARYS,Varys,3
+VIOLET,Violet,3
+WALDER,Walder,3
+WILLEM_LANNISTER,Willem,3
+YARA,Yara,3
+YGRITTE,Ygritte,3
+ADRACK_HUMBLE,Adrack Humble,4
+AERYS,Aerys,4
+ALLISER_THORNE,Alliser Thorne,4
+ANYA_WAYNWOOD,Anya Waynwood,4
+ARYA,Arya,4
+AXELL_FLORENT,Axell Florent,4
+BAELOR,Baelor,4
+BALON,Balon,4
+BALON_DWARF,Balon Dwarf,4
+BARRISTAN,Barristan,4
+BITER,Biter,4
+BLACK_JACK,Black Jack,4
+BOLTON_GUARD,Bolton Guard,4
+BOROS,Boros,4
+BRAN,Bran,4
+BRIENNE,Brienne,4
+BRONN,Bronn,4
+CATELYN,Catelyn,4
+CERSEI,Cersei,4
+COOPER,Cooper,4
+CRASTER,Craster,4
+CRASTERS_BABY,Baby,4
+DAARIO,Daario,4
+DAENERYS,Daenerys,4
+DAVOS,Davos,4
+EDDISON_TOLLETT,Eddison,4
+DONGO_THE_GIANT,Dongo the Giant,4
+DONNEL_HILL,Donnel Hill,4
+DONNEL_WAYNWOOD,Donnel Waynwood,4
+DONTOS,Dontos,4
+DORAN,Doran,4
+DORNISH_LORD,Dornish Lord,4
+DROGO,Drogo,4
+DYING_MAN,Dying Man,4
+ELDER_MEEREEN_SLAVE,Meereen Statesman,4
+ELIA,Elia,4
+ELLARIA,Ellaria,4
+ENDREW,Endrew,4
+FALYSE,Falyse,4
+FARMER_HAMLET,Hamlet Farmer,4
+FENNESZ,Fennesz,4
+FIRST_MATE,First Mate,4
+FOOL,Fool,4
+GILLY,Gilly,4
+GOATHERD,Goatherd,4
+GOATHERDS_SON,Goatherd's Son,4
+GRENN,Grenn,4
+GREY_WORM,Grey Worm,4
+GUYMON,Guymon,4
+HIGH_SEPTON,High Septon,4
+HIZDAHR,Hizdahr,4
+HIZDAHRS_FATHER,Hizdahr's Father,4
+HODOR,Hodor,4
+HOSTER,Hoster,4
+HOT_PIE,Hot Pie,4
+INNKEEPER,Innkeeper,4
+INNKEEPERS_DAUGHTER,Innkeeper's Daughter,4
+JAIME,Jaime,4
+JANOS,Janos,4
+JAQEN,Jaqen,4
+JEOR,Jeor,4
+JOANNA,Joanna,4
+JOFFREY,Joffrey,4
+JOFFREY_DWARF,Joffrey Dwarf,4
+JOJEN,Jojen,4
+JON,Jon,4
+JON_ARRYN,Jon Arryn,4
+JORAH,Jorah,4
+KARL_TANNER,Karl,4
+KEGS,Kegs,4
+LEAF,Leaf,4
+LHARA,Lhara,4
+LITTLE_SAM,Little Sam,4
+LITTLEFINGER,Petyr,4
+LOCKE,Locke,4
+LOLLYS,Lollys,4
+LOMMY,Lommy,4
+LORAS,Loras,4
+LUTHOR,Luthor,4
+LYSA,Lysa,4
+MACE,Mace,4
+MAESTER_AEMON,Aemon,4
+MAG_THE_MIGHTY,Mag the Mighty,4
+MANCE,Mance,4
+MANSERVANT,Manservant,4
+MAREI,Marei,4
+MARGAERY,Margaery,4
+MASTER_MIGHDAL,Master Mighdal,4
+MEERA,Meera,4
+MEEREEN_CHAMPION,Meereen Champion,4
+MEEREEN_SLAVE,Meereen Slave,4
+MELISANDRE,Melisandre,4
+MERYN_TRANT,Meryn,4
+MISSANDEI,Missandei,4
+MOLES_TOWN_MADAM,Mole's Town Madam,4
+MOLES_TOWN_WHORE,Mole's Town Whore,4
+MORAG,Morag,4
+MORGAN,Morgan,4
+MORGANS_FRIEND,Morgan's Friend,4
+MOSSADOR,Mossador,4
+MOUNTAIN,Gregor,4
+MULLY,Mully,4
+MUSICIAN,Musician,4
+MYRANDA,Myranda,4
+MYRCELLA,Myrcella,4
+NED,Ned,4
+NIGHT_KING,Night King,4
+OBERYN,Oberyn,4
+OLENNA,Olenna,4
+OLLY,Olly,4
+OLLYS_MOTHER,Olly's Mother,4
+OLYVAR,Olyvar,4
+ORSON,Orson,4
+ORYS,Orys,4
+ORYS_BROTHER,Orys's Brother,4
+OTHELL_YARWYCK,Othell,4
+PODRICK,Podrick,4
+POLLIVER,Polliver,4
+PYCELLE,Pycelle,4
+PYP,Pyp,4
+QHORIN,Qhorin,4
+QYBURN,Qyburn,4
+RALF,Ralf,4
+RAMSAY,Ramsay,4
+RANDYLL,Randyll,4
+RAST,Rast,4
+RENLY,Renly,4
+RENLY_DWARF,Renly Dwarf,4
+RHAEGAR,Rhaegar,4
+RICKON,Rickon,4
+ROBB,Robb,4
+ROBB_DWARF,Robb Dwarf,4
+ROBERT,Robert,4
+ROBIN,Robin,4
+ROOSE_BOLTON,Roose,4
+RORGE,Rorge,4
+SALLADHOR,Salladhor,4
+SALLY,Sally,4
+SAM,Sam,4
+HOUND,Sandor,4
+SANSA,Sansa,4
+SELWYN,Selwyn,4
+SELYSE,Selyse,4
+SHAE,Shae,4
+SHIREEN,Shireen,4
+SISSY,Sissy,4
+STANNIS,Stannis,4
+STANNIS_DWARF,Stannis Dwarf,4
+STYR,Styr,4
+SYRIO_FOREL,Syrio Forel,4
+TANSY,Tansy,4
+TERNESIO_TERYS,Ternesio Terys,4
+THENN_WARG,Thenn Warg,4
+THEON,Theon,4
+THREE_EYED_RAVEN,Three Eyed Raven,4
+TOMMEN,Tommen,4
+TOMMY,Tommy,4
+TORMUND,Tormund,4
+TYCHO,Tycho,4
+TYRION,Tyrion,4
+TYWIN,Tywin,4
+VANCE_CORBRAY,Vance Corbray,4
+VARYS,Varys,4
+VIOLA,Viola,4
+VISERYS,Viserys,4
+WALDA,Walda,4
+WAYMAR_ROYCE,Waymar Royce,4
+WHITE_WALKER,White Walker,4
+YARA,Yara,4
+YGRITTE,Ygritte,4
+YOHN_ROYCE,Yohn Royce,4
+ZALA,Zala,4
+AEGON,Aegon,5
+AERYS,Aerys,5
+ALLISER_THORNE,Alliser,5
+AREO,Areo,5
+ARYA,Arya,5
+BARRISTAN,Barristan,5
+BLACK_HAIRED_PROSTITUTE,Strumpet,5
+BRAN,Bran,5
+BRAND,Brand,5
+BRIAN,Brian,5
+BRIENNE,Brienne,5
+BRONN,Bronn,5
+CATELYN,Catelyn,5
+CERSEI,Cersei,5
+CERWYN,Cerwyn,5
+DAARIO,Daario,5
+DAENERYS,Daenerys,5
+DAVOS,Davos,5
+DENYS,Denys,5
+DERRYK,Derryk,5
+DORAN,Doran,5
+DORNISH_RIDER,Dornish Rider,5
+EDDISON_TOLLETT,Eddison,5
+ELLARIA,Ellaria,5
+FALYSE,Falyse,5
+GILLY,Gilly,5
+GRENN,Grenn,5
+GREY_WORM,Grey Worm,5
+HIGH_SEPTON,High Septon,5
+HIGH_SPARROW,High Sparrow,5
+HIZDAHR,Hizdahr,5
+JAIME,Jaime,5
+JANOS,Janos,5
+JAQEN,Jaqen,5
+JEOR,Jeor,5
+JOFFREY,Joffrey,5
+JON,Jon,5
+JORAH,Jorah,5
+KARSI,Karsi,5
+KEVAN,Kevan,5
+LANCEL,Lancel,5
+LITTLE_SAM,Little Sam,5
+LITTLEFINGER,Petyr,5
+LOBODA,Loboda,5
+LOLLYS,Lollys,5
+LORAS,Loras,5
+LORD_OF_BONES,Lord of Bones,5
+LORD_WEEBLY,Lord Weebly,5
+LYANNA,Lynanna,5
+LYANNA_MORMONT,Lyanna Mormont,5
+LYSA,Lysa,5
+MACE,Mace,5
+MADAME,Madame,5
+MAESTER_AEMON,Aemon,5
+MAGGY,Maggy,5
+MAGNAR,Magnar,5
+MALKO,Malko,5
+MANCE,Mance,5
+MARGAERY,Margaery,5
+MELARA,Melara,5
+MELISANDRE,Melisandre,5
+MERYN_TRANT,Meryn,5
+MISSANDEI,Missandei,5
+MOSSADOR,Mossador,5
+MOUNTAIN,Mountain,5
+MYRANDA,Myranda,5
+MYRCELLA,Myrcella,5
+NED,Ned,5
+NIGHT_KING,Night King,5
+NYMERIA,Nymeria,5
+OBARA,Obara,5
+OBERYN,Oberyn,5
+OLENNA,Olenna,5
+OLLY,Olly,5
+OLYVAR,Olyvar,5
+OWNER,Owner,5
+PODRICK,Podrick,5
+PYCELLE,Pycelle,5
+PYP,Pyp,5
+QUICK,Quick,5
+QYBURN,Qyburn,5
+RAMSAY,Ramsay,5
+RANDYLL,Randyll,5
+RENLY,Renly,5
+RHAEGAR,Rhaegar,5
+RHAENYRA,Rhaenyra,5
+RICKON,Rickon,5
+ROBB,Robb,5
+ROBERT,Robert,5
+ROBIN,Robin,5
+ROOSE_BOLTON,Roose,5
+ROYCE,Royce,5
+SAM,Sam,5
+SANSA,Sansa,5
+SELWYN,Selwyn,5
+SELYSE,Selyse,5
+SEPTA_UNELLA,Septa Unella,5
+SHAE,Shae,5
+SHIREEN,Shireen,5
+STANNIS,Stannis,5
+STEFFON,Steffon,5
+STRONG,Strong,5
+TANDA,Tanda,5
+THEON,Theon,5
+THIN_MAN,Thin Man,5
+TOMMEN,Tommen,5
+TORMUND,Tormund,5
+TRYSTANE,Trystane,5
+TYCHO,Tycho,5
+TYENE,Tyene,5
+TYRION,Tyrion,5
+TYWIN,Tywin,5
+VARYS,Varys,5
+WAIF,Waif,5
+WALDA,Walda,5
+WALDER,Walder,5
+MAESTER_WOLKAN,Wolkan,5
+OTHELL_YARWYCK,Othell,5
+YOHN_ROYCE,Yohn,5
+AERON,Aeron,6
+AERYS,Aerys,6
+ALLISER_THORNE,Alliser,6
+AREO,Areo,6
+ARTHUR,Arthur,6
+ARTHUR_CHILD,Arthur (child),6
+ARYA,Arya,6
+BALON,Balon,6
+BELICHO,Belicho,6
+BENJEN,Benjen,6
+BERIC,Beric,6
+BIANCA,Bianca,6
+BLACK_WALDER,Black Walder,6
+BOBONO,Bobono,6
+BOWEN_MARSH,Bowen,6
+BRAN,Bran,6
+BRIENNE,Brienne,6
+BRONN,Bronn,6
+BRYNDEN,Brynden,6
+CAMELLO,Camello,6
+CATELYN,Catelyn,6
+CERSEI,Cersei,6
+CLARENZO,Clarenzo,6
+DAARIO,Daario,6
+DAENERYS,Daenerys,6
+DAVOS,Davos,6
+DICKON,Dickon,6
+DIM_DALBA,Dim Dalba,6
+EDDISON_TOLLETT,Eddison,6
+DOM,Dom,6
+DORAN,Doran,6
+DOSH_KHALEEN_LEADER,Dosh Khaleen Leader,6
+DROGO,Drogo,6
+EDMURE,Edmure,6
+ELLARIA,Ellaria,6
+EURON,Euron,6
+FLYNN,Flynn,6
+GATINS,Gatins,6
+GILLY,Gilly,6
+GLOVER,Glover,6
+GREY_WORM,Grey Worm,6
+GUARD_CAPTAIN,Guard Captain,6
+HARALD,Harald,6
+HIGH_SPARROW,High Sparrow,6
+HODOR,Hodor,6
+HOSTER,Hoster,6
+HOUND,Sandor,6
+HOWLAND,Howland,6
+IZEMBARO,Izembaro,6
+JAIME,Jaime,6
+JAQEN,Jaqen,6
+JEOR,Jeor,6
+JOFFREY,Joffrey,6
+JON,Jon,6
+JORAH,Jorah,6
+KEVAN,Kevan,6
+KHAL_MORO,Khal Moro,6
+KINVARA,Kinvara,6
+KRAZNYS_MO_NAKLOZ,Kraznys,6
+LADY_CRANE,Lady Crane,6
+LANCEL,Lancel,6
+LEAF,Leaf,6
+LEM,Lem,6
+LHAZAREEN_WOMAN,Lhazareen Woman,6
+LITTLE_SAM,Little Sam,6
+LITTLEFINGER,Petyr,6
+LORAS,Loras,6
+LOTHAR,Lothar,6
+LYANNA,Lyanna,6
+LYANNA_MORMONT,Lyanna Mormont,6
+MACE,Mace,6
+MAESTER_AEMON,Aemon,6
+MAESTER_CITADEL,Citadel Maester,6
+MAESTER_DORNE,Dorne Maester,6
+MAESTER_MORMONT,Mormont Maester,6
+MAESTER_WOLKAN,Wolkan,6
+MANCE,Mance,6
+MANDERLY,Manderly,6
+MARGAERY,Margaery,6
+MEERA,Meera,6
+MELESSA,Melessa,6
+MELISANDRE,Melisandre,6
+MINISA,Minisa,6
+MISSANDEI,Missandei,6
+MORGAN,Morgan,6
+MOUNTAIN,Gregor,6
+MYRANDA,Myranda,6
+MYRCELLA,Myrcella,6
+NED,Ned,6
+NIGHT_KING,Night King,6
+NYMERIA,Nymeria,6
+OBARA,Obara,6
+OBERYN,Oberyn,6
+OLD_NAN,Old Nan,6
+OLENNA,Olenna,6
+OLLY,Olly,6
+OSHA,Osha,6
+OTHELL_YARWYCK,Othell,6
+PODRICK,Podrick,6
+PYCELLE,Pycelle,6
+QYBURN,Qyburn,6
+RAMSAY,Ramsay,6
+RANDYLL,Randyll,6
+RAY,Ray,6
+RAZDAL,Razdal,6
+RED_PRIEST,Red Priest,6
+RICKARD_KARSTARK,Rickard Karstark,6
+RICKARD_STARK,Rickard Stark,6
+RICKON,Rickon,6
+ROBB,Robb,6
+ROBERT,Robert,6
+ROBETT,Robett,6
+ROBIN,Robin,6
+RODRIK,Rodrik,6
+ROOSE_BOLTON,Roose,6
+SAM,Sam,6
+SANSA,Sansa,6
+SEPTA_UNELLA,Septa Unella,6
+SHIREEN,Shireen,6
+SMALLJON,Smalljon,6
+SON_OF_EDMURE,Edmure's Son,6
+SON_OFWALDA,Roose's Son,6
+STANNIS,Stannis,6
+TALLA,Talla,6
+THEON,Theon,6
+THOROS,Thoros,6
+THREE_EYED_RAVEN,Three Eyed Raven,6
+TOMMEN,Tommen,6
+TORMUND,Tormund,6
+TRYSTANE,Trystane,6
+TYENE,Tyene,6
+TYRION,Tyrion,6
+TYWIN,Tywin,6
+VALA,Vala,6
+VARYS,Varys,6
+WAIF,Waif,6
+WALDA,Walda,6
+WALDER,Walder,6
+WUN_WUN,Wun Wun,6
+YARA,Yara,6
+YEZZAN,Yezzan,6
+YOHN_ROYCE,Yohn,6
+AEGON,Aegon,7
+AERYS,Aerys,7
+ALYS,Alys,7
+ARYA,Arya,7
+BALERION,Balerion,7
+BENJEN,Benjen,7
+BERIC,Beric,7
+BRAN,Bran,7
+BRIENNE,Brienne,7
+BRONN,Bronn,7
+CATELYN,Catelyn,7
+CERSEI,Cersei,7
+DAENERYS,Daenerys,7
+DAVOS,Davos,7
+DICKON,Dickon,7
+EDDISON_TOLLETT,Eddison,7
+DROGO,Drogo,7
+ELLARIA,Ellaria,7
+EURON,Euron,7
+GENDRY,Gendry,7
+GILLY,Gilly,7
+GREY_WORM,Grey Worm,7
+HARRAG,Harrag,7
+HIGH_SEPTON,High Septon (Aerys),7
+HOT_PIE,Hot Pie,7
+HOUND,Sandor,7
+HOWLAND,Howland,7
+JAIME,Jaime,7
+JEOR,Jeor,7
+JOANNA,Joanna,7
+JOFFREY,Joffrey,7
+JON,Jon,7
+JON_ARRYN,Jon Arryn,7
+JORAH,Jorah,7
+LITTLE_SAM,Little Sam,7
+LITTLEFINGER,Petyr,7
+LYANNA,Lyanna,7
+LYANNA_MORMONT,Lyanna Mormont,7
+LYSA,Lysa,7
+MARGAERY,Margaery,7
+MARWYN,Marwin,7
+MEERA,Meera,7
+MELISANDRE,Melisandre,7
+MISSANDEI,Missandei,7
+MOUNTAIN,Gregor,7
+MYRCELLA,Myrcella,7
+NED,Ned,7
+NED_UMBER,Ned Umber,7
+NIGHT_KING,Night King,7
+NYMERIA,Nymeria,7
+OBARA,Obara,7
+OBERYN,Oberyn,7
+OLENNA,Olenna,7
+PODRICK,Podrick,7
+QHONO,Qhono,7
+QYBURN,Qyburn,7
+RAMSAY,Ramsay,7
+RANDYLL,Randyll,7
+RHAEGAR,Rhaegar,7
+ROBB,Robb,7
+ROBERT,Robert,7
+ROBETT,Robett,7
+SAM,Sam,7
+SANSA,Sansa,7
+SHIREEN,Shireen,7
+STANNIS,Stannis,7
+THEON,Theon,7
+THOROS,Thoros,7
+TOMMEN,Tommen,7
+TORMUND,Tormund,7
+TYCHO,Tycho,7
+TYENE,Tyene,7
+TYRION,Tyrion,7
+TYWIN,Tywin,7
+VARYS,Varys,7
+VISERYS,Viserys,7
+WALDER,Walder,7
+WHITE_WALKER,White Walker,7
+MAESTER_WOLKAN,Wolkan,7
+YARA,Yara,7
+YOHN_ROYCE,Yohn Royce,7
+AEGON,Aegon,8
+AERYS,Aerys,8
+ALANNA,Alanna,8
+ALTON,Alton,8
+ALYS,Alys,8
+ARYA,Arya,8
+BERIC,Beric,8
+BRAN,Bran,8
+BRIENNE,Brienne,8
+BRONN,Bronn,8
+CATELYN,Catelyn,8
+CERSEI,Cersei,8
+CERSEIS_BABY,Cersei's Baby,8
+CRAYAH,Crayah,8
+DAENERYS,Daenerys,8
+DAVOS,Davos,8
+DICKON,Dickon,8
+DIRAH,Dirah,8
+DORNISH_PRINCE,Dornish Prince,8
+EDDISON_TOLLETT,Eddison,8
+EDMURE,Edmure,8
+EURON,Euron,8
+GENDRY,Gendry,8
+GILLY,Gilly,8
+GREY_WORM,Grey Worm,8
+HARRY,Harry,8
+HOUND,Sandor,8
+IRONBORN_LORD,Ironborn Lord,8
+JAIME,Jaime,8
+JOFFREY,Joffrey,8
+JON,Jon,8
+JORAH,Jorah,8
+LITTLE_SAM,Little Sam,8
+LITTLEFINGER,Petyr,8
+LYANNA,Lyanna,8
+LYANNA_MORMONT,Lyanna Mormont,8
+MAREI,Marei,8
+MARTHA,Martha,8
+MARWYN,Marwyn,8
+MELISANDRE,Melisandre,8
+MISSANDEI,Missandei,8
+MOUNTAIN,Gregor,8
+NED,Ned,8
+NED_UMBER,Ned Umber,8
+NIGHT_KING,Night King,8
+NORA,Nora,8
+OWEN,Owen,8
+PODRICK,Podrick,8
+QHONO,Qhono,8
+QYBURN,Qyburn,8
+RAMSAY,Ramsay,8
+RANDYLL,Randyll,8
+RHAEGAR,Rhaegar,8
+RIVERLANDS_LORD,Riverlands Lord,8
+ROBERT,Robert,8
+ROBIN,Robin,8
+SAM,Sam,8
+SANSA,Sansa,8
+SARRA,Sarra,8
+TEELA,Teela,8
+THEON,Theon,8
+TORMUND,Tormund,8
+TYRION,Tyrion,8
+TYWIN,Tywin,8
+UNSULLIED_CAPTAIN,Unsullied Captain,8
+VALE_LORD,Vale Lord,8
+VARYS,Varys,8
+VICKY,Vicky,8
+VISERYS,Viserys,8
+WILLA,Willa,8
+WILLIAM,William,8
+MAESTER_WOLKAN,Wolkan,8
+YARA,Yara,8
+YOHN_ROYCE,Yohn Royce,8

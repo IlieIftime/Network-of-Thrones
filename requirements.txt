@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+networkx
+scipy
+scikit-learn
+torch
+torch-geometric
+plotly
+Pillow
+jupyter
+notebook
+ipykernel

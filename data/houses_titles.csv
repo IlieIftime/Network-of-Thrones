@@ -1,0 +1,339 @@
+name,house,epithets
+TYRION LANNISTER,Casa Lannister,Mão da Rainha;Mestre da Moeda (ex);O Anão;Conselheiro político
+JON,Casa Stark (Snow) / Targaryen (sangue),Lord Commander da Patrulha da Noite;Rei do Norte;Aegon Targaryen;Líder militar
+SANSA,Casa Stark,Lady de Winterfell;Lady Sansa Stark;Ex‑Lady do Vale;Estratega política
+ARYA,Casa Stark,Arya Stark de Winterfell;Faceless;Assassina;Viajante
+DAENERYS,Casa Targaryen,Mãe dos Dragões;Rainha de Meereen;Quebradora de Correntes;Pretendente ao Trono
+JAIME,Casa Lannister,Ser Jaime;Kingslayer;Comandante militar;Irmão de Cersei
+CERSEI,Casa Lannister,Rainha dos Sete Reinos;Regente;Matriarca Lannister
+NED,Casa Stark,Lord de Winterfell;Warden do Norte;Hand of the King
+SAM,Casa Tarly (origem),Maester‑in‑training;Estudioso;Bibliotecário;Futuro maester
+DAVOS,Casa Baratheon (aliado),Onion Knight;Conselheiro naval;Emissário
+BRAN,Casa Stark,Three‑Eyed Raven;Bran the Broken;Vidente;Warg
+THEON,Casa Greyjoy,Príncipe das Ilhas de Ferro;Reek;Redimido
+JOFFREY,Casa Baratheon / Lannister,Rei Joffrey;Monarca jovem e cruel;Filho de Cersei (legitimidade contestada)
+VARYS,Sem casa,The Spider;Mestre dos Sussurros;Conselheiro;Manipulador de informação
+HOUND,Casa Clegane,The Hound;Guerreiro;Guarda real ocasional
+JORAH,Casa Mormont (origem),Ser Jorah;Exilado;Conselheiro e protetor de Daenerys
+BRONN,Sem casa nobre,Sellsword;Mercenário;Cavaleiro por compra de título
+LITTLEFINGER,Casa Baelish,Master of Coin (ex);Lord Protector do Vale;Manipulador político
+TORMUND,Povo Livre,Líder dos selvagens;Guerreiro do Norte;Aliado de Jon
+BRIENNE,Casa Tarth,Ser Brienne;Cavaleira leal;Protetora dos Stark
+TYWIN,Casa Lannister,Lord de Casterly Rock;Warden do Oeste;Chefe da família
+CATELYN,Casa Tully / Stark,Lady Catelyn;Matriarca;Defensora dos filhos
+ROBB,Casa Stark,Rei no Norte;Comandante militar jovem
+ROBERT,Casa Baratheon,Rei dos Sete Reinos;Ex‑Lord of Storm's End;Rei festeiro
+STANNIS,Casa Baratheon,Lord de Dragonstone;Pretendente ao trono;Comandante austero
+GREY_WORM,Unsullied,Comandante dos Unsullied;General de Daenerys
+PODRICK,Sem casa nobre,Escudeiro de Tyrion e Brienne;Fiel
+GENDRY,Bastardo Baratheon (origem),Ferreiro;Legitimado como Lord Gendry Baratheon;Herdeiro
+MISSANDEI,Meereen / Naath,Missandei of Naath;Tradutora;Conselheira de Daenerys
+EDDISON_TOLLETT,Night's Watch,Edd;Irmão da Muralha;Soldado
+MELISANDRE,Seguidores de R'hllor,A Vermelha;Sacerdotisa;Conselheira mística
+MOUNTAIN,Casa Clegane,Ser Gregor;The Mountain;Campeão brutal
+YARA,Casa Greyjoy,Senhora das Ilhas de Ferro;Capitã;Chefe guerreira
+GILLY,Povo Livre / aliada,Mãe;Camponesa;Aliada de Sam
+OLENNA,Casa Tyrell,Rainha das Espinas;Matriarca Tyrell;Manipuladora política
+EDMURE,Casa Tully,Lord de Riverrun;Nobre do Tridente
+YOHN_ROYCE,Casa Royce,Senhor do Vale;Cavaleiro veterano
+LORAS,Casa Tyrell,Cavaleiro das Flores;Comandante;Irmão de Margaery
+BERIC,Sem casa fixa,Líder dos Cavaleiros da Ressurreição;Ressuscitado por Thoros
+ELLARIA,Dorne / Sand,Amante de Oberyn;Líder vingativa;Dornesa
+PYCELLE,Porto Real / maester,Grand Maester Pycelle;Conselheiro da corte
+MARGAERY,Casa Tyrell,Rainha consorte;Diplomata;Manipuladora social
+LYANNA_MORMONT,Casa Mormont,Lady de Bear Island;Jovem líder feroz
+QYBURN,Ex‑maester,Ex‑maester;Mestre de experimentos;Conselheiro sombrio
+MAESTER_WOLKAN,Maester,Maester servindo nobres;Conselheiro médico
+ROOSE_BOLTON,Casa Bolton,Lord de the Dreadfort;Warden do Norte;Senhor cruel
+TOMMEN,Casa Baratheon / Lannister,Rei Tommen;Rei jovem e manipulável
+RENLY,Casa Baratheon,Lord de Storm's End;Pretendente ao trono;Carismático
+MERYN_TRANT,Guarda Real,Cavaleiro da Guarda Real;Executor de ordens
+RAMSAY,Casa Bolton (ilegítimo depois legitimado),Ramsay Snow;Lord Bolton;Sádico torturador
+HODOR,Casa Stark (servo),Servo de Winterfell;Hodor;Forte e leal
+GRENN,Night's Watch,Irmão da Muralha;Soldado
+ROBIN,Casa Arryn,Lord Robin Arryn;Jovem senhor do Vale
+MACE,Casa Tyrell,Lord de Highgarden;Cabeça da Casa Tyrell;Político
+JANOS,Janos Slynt,Comandante da Guarda da Cidade (ex);Exilado para a Patrulha
+MEERA,Casa Reed,Guerreira;Protetora de Bran;Do Pântano
+OBERYN,Casa Martell,The Red Viper;Príncipe de Dorne;Duelista
+QHONO,Dothraki,Khal;Guerreiro dothraki;Capitão de khalasar
+LANCEL,Casa Lannister,Cavaleiro;Convertido ao Alto Septão;Vassalo
+YGRITTE,Povo Livre,Selvagem;Amante de Jon;Arqueira
+ALYS,Casa Karstark (provável),Nobre do Norte;Figura secundária
+RICKON,Casa Stark,Filho mais novo dos Stark;Jovem herdeiro
+AERYS,Casa Targaryen (histórico),The Mad King;Rei deposto
+EURON,Casa Greyjoy,Rei das Ilhas de Ferro;Pirata;Chefe guerreiro
+BARRISTAN,Casa Selmy / serviço real,Ser Barristan o Bravo;Ex‑Lord Comandante da Guarda Real;Cavaleiro lendário
+ALLISER_THORNE,Night's Watch,Comandante da Patrulha;Antagonista na Muralha
+JEOR,Casa Mormont,Lord Comandante da Patrulha da Noite;Ex‑Lord of Bear Island
+PYP,Night's Watch,Irmão da Muralha;Companheiro de Sam e Edd
+LOCKE,Vassalo Bolton,Capanga;Caçador;Executor de ordens
+WALDER,Casa Frey,Lord of the Crossing;Patriarca Frey;Responsável pelo Casamento Vermelho
+HIGH_SEPTON,Faith of the Seven,Alto Septão;Líder religioso
+JOJEN,Casa Reed,Vidente;Guia de Bran;Do Pântano
+OLLY,Norte / Night's Watch,Jovem aldeão;Membro da Patrulha;Envolvido em conflito
+YOREN,Night's Watch,Recrutador;Irmão da Muralha;Transportador de recrutas
+SHAE,Sem casa nobre,Amante de Tyrion;Cortesã
+KEVAN,Casa Lannister,Lord Lannister;Irmão de Tywin;Administrador
+MAESTER_AEMON,Night's Watch / Targaryen (origem),Maester Aemon;Velho sábio da Muralha;Targaryen por sangue
+CRASTER,Além da Muralha,Chefe de clã;Fornecedor de sacrifícios;Figura sinistra
+RICKARD_KARSTARK,Casa Karstark,Senhor do Norte;Vassalo dos Stark
+NIGHT_KING,White Walkers,Night King;Comandante dos mortos;Entidade sobrenatural
+LITTLE_SAM,Povo Livre,Jovem selvagem;Companheiro de Gilly
+RAST,Night's Watch,Irmão da Muralha;Antagonista menor
+LYSA,Casa Arryn / Tully,Lady of the Vale;Mãe de Robin;Instável politicamente
+MYRCELLA,Casa Baratheon / Lannister,Princesa;Filha de Cersei;Casada com Trystane
+DORNISH_PRINCE,Casa Martell / Dorne,Príncipe dornês;Nobre de Dorne
+IRONBORN_LORD,Ilhas de Ferro,Senhor ironborn;Capitão
+RIVERLANDS_LORD,Tridente,Senhor local do Tridente;Nobre regional
+VALE_LORD,Vale,Senhor do Vale;Nobre regional
+RODRIK,Casa Cassel,Mestre de armas de Winterfell;Vassalo
+OSHA,Povo Livre / serva Stark,Selvagem;Guardiã;Serva de Rickon/Bran
+BRYNDEN,Targaryen bastardo / Three‑Eyed Raven,Bloodraven;Antigo Three‑Eyed Raven;Mestre/vidente
+TALISA,Sem casa nobre,Curandeira;Esposa de Robb;Lady Talisa
+DAARIO,Sem casa nobre,Capitão mercenário;Amante de Daenerys
+BENJEN,Casa Stark,Ranger;Irmão da Muralha
+TYENE,Dorne / Sand,Filha de Oberyn;Assassina;Venenista
+MAESTER_LUWIN,Winterfell,Maester de Winterfell;Conselheiro dos Stark
+HIGH_SPARROW,Faith of the Seven,Líder religioso popular;Alto Pardal
+ROS,Sem casa nobre,Cortesã de Porto Real;Informante
+DROGO,Dothraki,Khal Drogo;Senhor de khalasar;Marido de Daenerys
+HOT_PIE,Origem Norte,Padeiro;Amigo dos Stark;Camponês
+JAQEN,Faceless Men,Assassino sem rosto;Membro dos Homens Sem Rosto
+THOROS,Red Priest / Brotherhood,Sacerdote vermelho;Ressuscitador de Beric
+OBARA,Dorne / Sand,Filha de Oberyn;Guerreira dornesa
+LADY_CRANE,Teatro Braavos,Atriz;Envolvida com Arya (disfarce)
+LYANNA,Casa Stark (histórico),Irmã de Ned;Figura histórica;Mãe de Jon (revelação)
+RANDYLL,Casa Tarly,Senhor de Horn Hill;Comandante militar;Pai de Sam
+MANCE,Povo Livre,King‑Beyond‑the‑Wall;Líder dos selvagens
+OTHELL_YARWYCK,Night's Watch,Oficial da Muralha;Sargento
+BOBONO,Personagem menor,Figura secundária;Papel episódico
+ILYN_PAYNE,Execução,Carrasco real;Sem fala (mudo)
+IZEMBARO,Actor / Meereen,Ator;Figura teatral
+ROBETT,Casa Glover,Senhor menor do Norte;Vassalo dos Stark
+JON_ARRYN,Casa Arryn,Hand of the King (antes de Ned);Lord of the Vale;Mentor de Ned
+OLYVAR,Porto Real / serviço,Amante/servo;Espião
+SMALLJON,Casa Umber,Senhor do Norte;Vassalo
+SHIREEN,Casa Baratheon (Dragonstone),Filha de Stannis;Princesa;Doente (greyscale)
+DORAN,Casa Martell,Príncipe de Dorne;Estadista paciente
+THREE_EYED_RAVEN,Entidade mística,Guia visionário;Antigo e novo Three‑Eyed Raven
+BAELOR,Targaryen histórico,Rei histórico;Figura lendária
+BIANCA,Personagem menor,Figura secundária;Papel episódico
+CLARENZO,Personagem menor,Figura secundária;Papel episódico
+HIZDAHR,Meereen,Nobre de Meereen;Pretendente;Figura política
+KARL_TANNER,Night's Watch (traidor),Mutineer;Antagonista na Muralha
+GREATJON_UMBER,Casa Umber,Senhor do Norte;Aliado feroz dos Stark
+RHAEGAR,Casa Targaryen (histórico),Príncipe;Pai de Jon (linhagem);Músico e guerreiro
+WUN_WUN,Gigante,Gigante aliado;Força bruta
+NYMERIA,Direwolf (Stark),Direwolf de Arya;Símbolo;Companheira
+SELYSE,Casa Baratheon,Esposa de Stannis;Devota religiosa
+ORELL,Povo Livre,Warg;Vigia;Aliado dos selvagens
+BALON,Casa Greyjoy,Lord of the Iron Islands;Líder ironborn
+BOWEN_MARSH,Night's Watch,Oficial da Muralha;Conspirador contra Jon
+POLLIVER,Capanga,Bandido;Executor de ordens
+AREO,Casa Martell,Capitão da guarda;Guarda dornês
+TYCHO,Banco de Ferro,Emissário do Iron Bank;Financista
+DAGMER,Ironborn,Capitão ironborn;Guerreiro
+LOTHAR,Casa Frey,Membro Frey;Participante do Casamento Vermelho
+DAREON,Night's Watch,Irmão da Muralha;Cantor
+CRASTERS_BABY,Filho de Craster,Bebê;Figura de sacrifício
+FARMER,Camponês,Camponês;Figura episódica
+DICKON,Casa Tarly,Filho de Randyll;Jovem nobre
+MORGAN,Personagem menor,Figura secundária;Papel episódico
+ROSLIN,Casa Tully,Lady de Riverrun;Esposa de Edmure
+MYRANDA,Servo de Ramsay,Capanga de Ramsay;Figura menor
+TRYSTANE,Casa Martell,Príncipe de Dorne;Noivo de Myrcella
+CAMELLO,Personagem menor,Figura episódica;Epíteto descritivo
+JOFFREY_DWARF,Personagem menor,Figurante;Epíteto
+MOSSADOR,Meereen,Guarda/servo em Meereen
+BLACK_WALDER,Casa Frey / Blackwood,Membro Frey;Antagonista
+MAREI,Personagem menor,Figura episódica
+MATTHOS,Personagem menor,Figura episódica
+DOREAH,Serva / concubina,Concubina de Daenerys;Conselheira inicial
+IRRI,Serva de Daenerys,Ama;Confidente inicial
+VISERYS,Casa Targaryen,Príncipe exilado;Irmão de Daenerys;Reclamante do trono
+XARO,Qarth merchant,Mercador rico;Pretendente a Daenerys
+STYR,Thenn / wildling,Magnar of Thenn;Líder wildling;Guerreiro
+JORY_CASSEL,Casa Stark (vassalo),Capitão de Winterfell;Leal aos Stark
+ROBB_DWARF,Personagem menor,Figurante;Epíteto
+WILL,Ranger,Patrulheiro;Personagem menor
+HOSTER,Casa Tully (histórico),Lord of Riverrun (histórico)
+SISSY,Personagem menor,Figura episódica
+KOVARRO,Personagem menor,Guarda/servo;Figura episódica
+RAKHARO,Dothraki,Guerreiro dothraki;Capitão
+QHORIN,Ranger / wildling ally,Comandante ranger;Mentor de Jon
+ALTON,Casa Lannister,Membro menor da família Lannister
+NED_UMBER,Casa Umber,Vassalo do Norte;Senhor menor
+ANGUY,Brotherhood Without Banners,Arqueiro;Membro da Irmandade
+BELICHO,Capitão,Figura menor;Capitão
+RAZDAL,Dothraki / mercador,Personagem menor;Mercador
+YEZZAN,Mercador Meereen,Mercador;Figura menor
+TEELA,Personagem menor,Figura episódica
+JOYEUSE,Personagem menor,Figura episódica
+OLD_NAN,Winterfell,Contadora de histórias;Figura histórica local
+MARILLION,Bardo,Bardo;Músico;Figura de corte
+MORD,Personagem menor,Figura episódica
+HARALD,Personagem menor,Figura episódica
+WALDA,Casa Frey / Walda Bolton (variações),Nobre menor;Figura familiar
+AEGON,Targaryen (vários),Príncipe/Rei histórico;Depende do Aegon referido
+SEPTA_MORDANE,Faith / septa,Governanta de Sansa;Professora
+AMORY,Vassalo Lannister,Cavaleiro;Executor
+ANYA_WAYNWOOD,Casa Waynwood,Nobre do Vale;Senhora menor
+ILLYRIO,Pentos / mercador,Illyrio Mopatis;Rico mercador;Patrocinador de Daenerys
+RORGE,Bandido,Criminoso;Antagonista
+THIN_MAN,Personagem menor,Figura episódica
+RENLY_DWARF,Personagem menor,Figurante
+MHAEGEN,Personagem menor,Figura episódica
+LEM,Personagem menor,Figura episódica
+BRANDON_STARK,Casa Stark (histórico),Brandon Stark (histórico);Figura familiar
+LEAF,Personagem mística,Entidade;Figura episódica
+HAYLENE,Personagem menor,Figura episódica
+VARDIS_EGEN,Casa Egen,Nobre do Vale;Cavaleiro
+DONTOS,Corte / servo,Dontos Hollard;Bobo da corte;Servo leal
+MORAG,Personagem menor,Figura episódica
+WHITE_WALKER,White Walkers,Andarilho Branco;Mortos;Entidade sobrenatural
+MERO,Personagem menor,Mercador;Figura episódica
+SPICE_KING,Qarth / mercador,Rei da Especiaria;Mercador influente
+GLOVER,Casa Glover,Senhor menor do Norte;Vassalo dos Stark
+MELESSA,Personagem menor,Figura episódica
+TALLA,Personagem menor,Figura episódica
+MAG_THE_MIGHTY,Personagem menor,Figura episódica
+HUGH_OF_THE_VALE,Casa Arryn,Nobre do Vale;Figura menor
+TORRHEN,Personagem menor,Figura histórica/local
+HOWLAND,Howland Reed,Senhor do Pântano;Aliado dos Stark
+BITER,Personagem menor,Bandido;Figura episódica
+LOMMY,Origem Norte,Jovem camponês;Amigo de Arya
+BALON_DWARF,Personagem menor,Figurante
+STANNIS_DWARF,Personagem menor,Figurante
+GOATHERD,Personagem menor,Pastor;Figura episódica
+KRAZNYS_MO_NAKLOZ,Meereen,Mercador de Meereen;Intermediário de Daenerys
+BLACK_LORREN,Personagem menor,Figura episódica
+COLEN,Personagem menor,Figura episódica
+MORGANS_FRIEND,Personagem menor,Figura episódica
+HARRY,Personagem menor,Figura episódica
+SEPTA_UNELLA,Faith,Septa;Figura religiosa;Inquisidora
+PRENDAHL,Personagem menor,Figura episódica
+QUICK,Personagem menor,Figura episódica
+STRONG,Personagem menor,Figura episódica
+MIRRI_MAZ_DUUR,Dothraki / Mirri,Curandeira;Figura mística;Antagonista
+PYATT_PREE,Warlock / Qarth,Feiticeiro;Membro da corte de Qarth
+QOTHO,Dothraki,Guerreiro dothraki;Capitão
+DIM_DALBA,Personagem menor,Figura episódica
+ROYCE,Casa Royce,Nobre do Vale;Cavaleiro
+OLLYS_MOTHER,Personagem menor,Figura episódica
+LORD_OF_BONES,Personagem menor,Senhor de Bones;Figura episódica
+MARWYN,Maester / Meereen,Maester;Curandeiro;Figura de Meereen
+AERON,Casa Greyjoy,Sacerdote Drowned God;Clérigo ironborn
+RICKARD_STARK,Casa Stark (histórico),Lord de Winterfell (histórico);Figura familiar
+VANCE_CORBRAY,Casa Corbray,Nobre do Vale;Cavaleiro
+MAESTER_DORNE,Maester,Maester local;Conselheiro
+ARTHUR,Personagem menor,Cavaleiro;Figura episódica
+INNKEEPER,Personagem menor,Estalajadeiro;Figura episódica
+MYCAH,Winterfell / camponês,Treinador de luta;Amigo de Arya
+SYRIO_FOREL,Braavos,Dançarino de Espadas;Instrutor de Arya
+TOMMY,Personagem menor,Figura episódica
+WAIF,Faceless Men,Membro dos Homens Sem Rosto;Instrutora de Arya
+AXELL_FLORENT,Casa Florent,Nobre menor;Cavaleiro
+FARLEN,Personagem menor,Figura episódica
+CRAYAH,Personagem menor,Figura episódica
+SHAGGA,Povo Livre,Líder tribal;Aliado selvagem
+TARYN_MANT,Personagem menor,Figura episódica
+ADDAM_MARBRAND,Casa Marbrand,Senhor menor;Vassalo dos Lannister;Cavaleiro
+LEO_LEFFORD,Casa Lefford,Nobre menor do Oeste;Cavaleiro
+RALF,Personagem menor,Servo/guarda;Figura episódica
+FARMER_HAMLET,Camponês,Camponês;Figura rural
+NORA,Personagem menor,Camponesa;Serva
+SALLY,Personagem menor,Camponesa;Figura episódica
+TICKLER,Casa Frey,Executor;Carrasco;Figura sinistra
+VICKY,Personagem menor,Cortesã;Serva
+ASSASSIN,Papel genérico,Assassino contratado;Figura sem nome
+BALERION,Dragão histórico,Dragão ancestral;Nome lendário
+RADZAI_MO_ERAZ,Meereen,Mercador;Figura de Qarth/Meereen
+FIRST_MATE,Papel genérico,Imediato de navio;Marinheiro
+BOROS,Personagem menor,Soldado;Guarda
+WINTERFELL_SHEPHERD,Papel genérico,Pastor de Winterfell;Figurante rural
+DERRYK,Personagem menor,Guarda;Servo
+JACKS,Personagem menor,Marinheiro;Servo
+SELWYN,Nobre do Vale,Cavaleiro;Nobre menor
+DIRAH,Personagem menor,Serva;Figurante
+LOLLYS,Nobre menor,Senhora local;Figura episódica
+TIMETT,Nobre menor,Cavaleiro;Figura do Norte
+CERSEIS_BABY,Filho de Cersei,Criança real;Figura episódica
+FOOL,Bobo da corte,Bobo;Confidente simbólico
+MAGGY,Maggy the Frog,Vidente;Profetisa de Porto Real
+SON_OF_EDMURE,Filho de Edmure,Herdeiro menor;Figura familiar
+DONNEL_HILL,Casa Hill,Senhor menor do Tridente;Vassalo regional
+MEEREEN_CHAMPION,Meereen,Campeão de arenas;Lutador
+FENNESZ,Personagem menor,Mercador;Figura episódica
+JHIQUI,Meereen,Serva de Daenerys;Confidente inicial
+KINVARA,Seguidores de R'hllor,Sacerdotisa vermelha;Emissária religiosa
+QUAITHE,Qarth,Enigmática;Profética;Conselheira críptica
+RED_PRIEST,Seguidores de R'hllor,Sacerdote vermelho;Místico
+VALA,Personagem menor,Cortesã;Figurante
+FREY_SEPTON,Faith / Frey,Septão associado aos Frey;Figura religiosa
+ELDER_MEEREEN_SLAVE,Meereen,Escravo;Figura de cena
+FLYNN,Personagem menor,Guarda;Servo
+GALBART_GLOVER,Casa Glover,Senhor menor do Norte;Vassalo dos Stark
+JAREMY_RYKKER,Casa Rykker,Cavaleiro;Nobre menor
+LOBODA,Personagem menor,Serva;Figurante
+MARTYN,Nobre menor,Figura familiar;Personagem episódico
+TANSY,Personagem menor,Camponesa;Figurante
+VIOLET,Personagem menor,Cortesã;Figurante
+TOMARD,Cavaleiro menor,Cavaleiro;Figura de torneio
+THENN_WARG,Thenn / wildling,Guerreiro Thenn;Warg
+ADRACK_HUMBLE,Capitão / mercador,Capitão de navio;Figura mercante
+DONNEL_WAYNWOOD,Casa Waynwood,Nobre do Vale;Vassalo
+DYING_MAN,Papel genérico,Moribundo;Figurante
+INNKEEPERS_DAUGHTER,Papel genérico,Filha de estalajadeiro;Figurante
+LOMMY_GREENHANDS,Origem Norte,Jovem camponês;Vítima de violência
+MADAME,Bordel/teatro,Madame;Dona de casa de tolerância
+REGINALD,Personagem menor,Servo;Nobre menor
+RHAENYS,Targaryen histórico,Princesa Targaryen histórica;Figura lendária
+VISENYA,Targaryen histórico,Princesa/dragonesa histórica;Figura lendária
+BARRA,Personagem menor,Serva;Figurante
+BLACK_JACK,Personagem menor,Bandido;Mercenário
+KEGS,Personagem menor,Camponês;Figurante
+MULLY,Personagem menor,Servo;Figurante
+BOLTON_GUARD,Casa Bolton,Guarda de Bolton;Capanga
+BORCAS,Personagem menor,Capanga;Guarda
+BRAND,Personagem menor,Servo;Guardião
+DORNISH_RIDER,Dorne,Cavaleiro dornês;Mensageiro
+GUARD_CAPTAIN,Papel genérico,Capitão da guarda;Oficial de segurança
+MASHA_HEDDLE,Personagem menor,Camponesa;Figurante
+MELARA,Personagem menor,Serva;Figurante
+COOPER,Personagem menor,Trabalhador;Figurante
+HIZDAHRS_FATHER,Meereen,Nobre de Meereen;Pai de Hizdahr
+MAGO,Papel genérico,Mágico;Charlatão
+MANservant,Papel genérico,Criado;Servo
+MASTER_MIGHDAL,Mercador Meereen,Mestre local;Figura comercial
+SILK_KING,Qarth,Rei da seda;Comerciante influente
+DAISY,Personagem menor,Cortesã;Figurante
+LUKE,Personagem menor,Servo;Marinheiro
+RYLENE,Personagem menor,Cortesã;Figurante
+DESMOND,Personagem menor,Guarda;Servo
+DOM,Personagem menor,Marinheiro;Servo
+DONGO_THE_GIANT,Gigante,Gigante;Força bruta;Aliado dos selvagens
+DORNISH_LORD,Casa Martell,Senhor de Dorne;Nobre regional
+MEEREEN_SLAVE,Meereen,Escravo urbano;Figura de cena
+ENDREW,Personagem menor,Servo;Figurante
+JONOS_BRACKEN,Casa Bracken,Senhor menor do Tridente;Vassalo regional
+GARED,Night's Watch,Patrulheiro;Primeiro a encontrar White Walkers
+TOBHO_MOTT,Ferreiro Porto Real,Ferreiro renomado;Mestre armeiro
+MAESTER_CITADEL,Citadel,Maester da Cidadela;Estudioso
+UNSULLIED_CAPTAIN,Unsullied,Capitão dos Unsullied;Oficial militar
+HARRAG,Meereen,Capitão/mercenário;Figura de Meereen
+TYSHA,Personagem ligada a Tyrion,Esposa de Tyrion (passado);Figura trágica
+LORD_WEEBLY,Nobre menor,Senhor local;Figura episódica
+QHORIN_HALFHAND,Night's Watch,Comandante ranger;Mentor de Jon
+MALKO,Personagem menor,Guarda;Servo
+LUTHOR,Personagem menor,Servo;Guardião
+VIOLA,Personagem menor,Cortesã;Figurante
+WILLEM_LANNISTER,Casa Lannister (ramo menor),Nobre menor;Parente Lannister
+STEFFON,Casa Baratheon (histórico),Pai de Robert;Figura histórica
+ORYS,Baratheon histórico,Fundador da Casa Baratheon;Figura lendária
+ORYS_BROTHER,Parente histórico,Figura familiar histórica
+SON_OFWALDA,Filho de Walda,Criança;Figura familiar
+SEPTON,Faith of the Seven,Septão;Clérigo
+WAYMAR_ROYCE,Casa Royce,Jovem cavaleiro;Patrulheiro
+SORCERER,Papel genérico,Feiticeiro;Charlatão
+OWEN,Personagem menor,Servo;Figurante
