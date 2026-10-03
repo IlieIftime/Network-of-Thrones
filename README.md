@@ -358,8 +358,3 @@ Relatório_IRN_Entrega3_Grupo24.pdf
 This project is distributed under the license specified in [`LICENSE`](LICENSE).
 
 The data used in this project are intended for academic and research purposes.
-
-
-## Group
-
-Ilie Iftime (112779) · Inês Cruz (123557) · Sofia Quintino (123554) · Tomás Manarte (122090)
